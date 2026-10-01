@@ -6,7 +6,7 @@ namespace Tyuiu.ShteltzAV.Sprint1.Task2.V11.Test
     public sealed class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidExpression()
         {
             DataService ds = new DataService();
             int h = 12;
